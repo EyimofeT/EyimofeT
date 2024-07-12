@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tuoyocliffordeyimofe@gmail.com**
 
-- 📄 Know about my experiences [cv](https://docs.google.com/document/d/1QGXcL-XAKm4cKnbL0swHHOQT5RawCtfMbM7jAEjGKs4/edit?usp=sharing)
+- 📄 Know about my experiences [Click Me](https://docs.google.com/document/d/1JgVgBfaNfhWI85ZOCYqSt-aVG3COosp3EBihQHitlw0/edit?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

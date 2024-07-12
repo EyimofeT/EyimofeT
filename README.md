@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Building API**
 
-- 🌱 I’m currently learning **Nodejs, Python Django,Cyber Security**
+- 🌱 I’m currently working on **Nodejs, Python Django,Cyber Security**
 
 - 👨‍💻 All of my projects are available at [github.com/EyimofeT](github.com/EyimofeT)
 

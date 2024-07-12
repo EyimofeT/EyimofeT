@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuoyo-Clifford Eyimofe</h1>
-<h3 align="center">A young aspiring developer seeking opportunities to develop mindset while simultaneously developing skillset by providing software solutions.</h3>
+<h3 align="center">A developer seeking opportunities to develop mindset while simultaneously developing skillset by providing software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyimofet&label=Profile%20views&color=0e75b6&style=flat" alt="eyimofet" /> </p>
 
